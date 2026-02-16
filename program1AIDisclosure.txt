@@ -1,1 +1,3 @@
 No gen AI like chatgpt or claude was used however AI overviews were used for things such as when looking up the match function.
+
+I personally wanted to avoid using it for the first program, however I am aware that you encourage its use for the class and will incorperate it into future projects.
